@@ -1,3 +1,5 @@
+# This a text project agent program, it means it allows for creation of text based projects, like folders and text file combination project and can make structured directories with wanted text files by the given request
+
 from google import genai
 from pydantic import BaseModel
 import enum
